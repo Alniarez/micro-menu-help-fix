@@ -1,0 +1,10 @@
+## Interface: 120100, 16001
+## Title: Micro Menu Help Fix
+## Notes: Micro menu help tips ("You have unspent Talent points.") show below the menu when it is at the top of the screen.
+## Version: 1.0.0
+## Author: Alniarez
+## OptionalDeps: AlniDev
+## IconTexture: Interface\Icons\inv_misc_questionmark
+## Category: User Interface
+
+MicroMenuHelpFix.lua
